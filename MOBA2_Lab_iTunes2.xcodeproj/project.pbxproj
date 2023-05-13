@@ -14,6 +14,7 @@
 		EA888E1B2A0FAA6B000E0615 /* MOBA2_Lab_iTunes2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA888E1A2A0FAA6B000E0615 /* MOBA2_Lab_iTunes2Tests.swift */; };
 		EA888E252A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA888E242A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests.swift */; };
 		EA888E272A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA888E262A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITestsLaunchTests.swift */; };
+		EA888E342A0FAACD000E0615 /* stones.json in Resources */ = {isa = PBXBuildFile; fileRef = EA888E332A0FAACD000E0615 /* stones.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		EA888E202A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MOBA2_Lab_iTunes2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA888E242A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MOBA2_Lab_iTunes2UITests.swift; sourceTree = "<group>"; };
 		EA888E262A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MOBA2_Lab_iTunes2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EA888E332A0FAACD000E0615 /* stones.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stones.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				EA888E092A0FAA6A000E0615 /* MOBA2_Lab_iTunes2App.swift */,
 				EA888E0B2A0FAA6A000E0615 /* ContentView.swift */,
+				EA888E332A0FAACD000E0615 /* stones.json */,
 				EA888E0D2A0FAA6B000E0615 /* Assets.xcassets */,
 				EA888E0F2A0FAA6B000E0615 /* Preview Content */,
 			);
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA888E112A0FAA6B000E0615 /* Preview Assets.xcassets in Resources */,
+				EA888E342A0FAACD000E0615 /* stones.json in Resources */,
 				EA888E0E2A0FAA6B000E0615 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
