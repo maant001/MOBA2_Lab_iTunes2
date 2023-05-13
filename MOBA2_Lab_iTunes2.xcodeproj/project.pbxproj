@@ -1,0 +1,582 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EA888E0A2A0FAA6A000E0615 /* MOBA2_Lab_iTunes2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA888E092A0FAA6A000E0615 /* MOBA2_Lab_iTunes2App.swift */; };
+		EA888E0C2A0FAA6A000E0615 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA888E0B2A0FAA6A000E0615 /* ContentView.swift */; };
+		EA888E0E2A0FAA6B000E0615 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA888E0D2A0FAA6B000E0615 /* Assets.xcassets */; };
+		EA888E112A0FAA6B000E0615 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA888E102A0FAA6B000E0615 /* Preview Assets.xcassets */; };
+		EA888E1B2A0FAA6B000E0615 /* MOBA2_Lab_iTunes2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA888E1A2A0FAA6B000E0615 /* MOBA2_Lab_iTunes2Tests.swift */; };
+		EA888E252A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA888E242A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests.swift */; };
+		EA888E272A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA888E262A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EA888E172A0FAA6B000E0615 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EA888DFE2A0FAA69000E0615 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EA888E052A0FAA6A000E0615;
+			remoteInfo = MOBA2_Lab_iTunes2;
+		};
+		EA888E212A0FAA6B000E0615 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EA888DFE2A0FAA69000E0615 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EA888E052A0FAA6A000E0615;
+			remoteInfo = MOBA2_Lab_iTunes2;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EA888E062A0FAA6A000E0615 /* MOBA2_Lab_iTunes2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MOBA2_Lab_iTunes2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA888E092A0FAA6A000E0615 /* MOBA2_Lab_iTunes2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MOBA2_Lab_iTunes2App.swift; sourceTree = "<group>"; };
+		EA888E0B2A0FAA6A000E0615 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		EA888E0D2A0FAA6B000E0615 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EA888E102A0FAA6B000E0615 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EA888E162A0FAA6B000E0615 /* MOBA2_Lab_iTunes2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MOBA2_Lab_iTunes2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA888E1A2A0FAA6B000E0615 /* MOBA2_Lab_iTunes2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MOBA2_Lab_iTunes2Tests.swift; sourceTree = "<group>"; };
+		EA888E202A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MOBA2_Lab_iTunes2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA888E242A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MOBA2_Lab_iTunes2UITests.swift; sourceTree = "<group>"; };
+		EA888E262A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MOBA2_Lab_iTunes2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EA888E032A0FAA6A000E0615 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA888E132A0FAA6B000E0615 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA888E1D2A0FAA6B000E0615 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EA888DFD2A0FAA69000E0615 = {
+			isa = PBXGroup;
+			children = (
+				EA888E082A0FAA6A000E0615 /* MOBA2_Lab_iTunes2 */,
+				EA888E192A0FAA6B000E0615 /* MOBA2_Lab_iTunes2Tests */,
+				EA888E232A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests */,
+				EA888E072A0FAA6A000E0615 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EA888E072A0FAA6A000E0615 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EA888E062A0FAA6A000E0615 /* MOBA2_Lab_iTunes2.app */,
+				EA888E162A0FAA6B000E0615 /* MOBA2_Lab_iTunes2Tests.xctest */,
+				EA888E202A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EA888E082A0FAA6A000E0615 /* MOBA2_Lab_iTunes2 */ = {
+			isa = PBXGroup;
+			children = (
+				EA888E092A0FAA6A000E0615 /* MOBA2_Lab_iTunes2App.swift */,
+				EA888E0B2A0FAA6A000E0615 /* ContentView.swift */,
+				EA888E0D2A0FAA6B000E0615 /* Assets.xcassets */,
+				EA888E0F2A0FAA6B000E0615 /* Preview Content */,
+			);
+			path = MOBA2_Lab_iTunes2;
+			sourceTree = "<group>";
+		};
+		EA888E0F2A0FAA6B000E0615 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				EA888E102A0FAA6B000E0615 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EA888E192A0FAA6B000E0615 /* MOBA2_Lab_iTunes2Tests */ = {
+			isa = PBXGroup;
+			children = (
+				EA888E1A2A0FAA6B000E0615 /* MOBA2_Lab_iTunes2Tests.swift */,
+			);
+			path = MOBA2_Lab_iTunes2Tests;
+			sourceTree = "<group>";
+		};
+		EA888E232A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests */ = {
+			isa = PBXGroup;
+			children = (
+				EA888E242A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests.swift */,
+				EA888E262A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITestsLaunchTests.swift */,
+			);
+			path = MOBA2_Lab_iTunes2UITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EA888E052A0FAA6A000E0615 /* MOBA2_Lab_iTunes2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EA888E2A2A0FAA6B000E0615 /* Build configuration list for PBXNativeTarget "MOBA2_Lab_iTunes2" */;
+			buildPhases = (
+				EA888E022A0FAA6A000E0615 /* Sources */,
+				EA888E032A0FAA6A000E0615 /* Frameworks */,
+				EA888E042A0FAA6A000E0615 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MOBA2_Lab_iTunes2;
+			productName = MOBA2_Lab_iTunes2;
+			productReference = EA888E062A0FAA6A000E0615 /* MOBA2_Lab_iTunes2.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EA888E152A0FAA6B000E0615 /* MOBA2_Lab_iTunes2Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EA888E2D2A0FAA6B000E0615 /* Build configuration list for PBXNativeTarget "MOBA2_Lab_iTunes2Tests" */;
+			buildPhases = (
+				EA888E122A0FAA6B000E0615 /* Sources */,
+				EA888E132A0FAA6B000E0615 /* Frameworks */,
+				EA888E142A0FAA6B000E0615 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EA888E182A0FAA6B000E0615 /* PBXTargetDependency */,
+			);
+			name = MOBA2_Lab_iTunes2Tests;
+			productName = MOBA2_Lab_iTunes2Tests;
+			productReference = EA888E162A0FAA6B000E0615 /* MOBA2_Lab_iTunes2Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		EA888E1F2A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EA888E302A0FAA6B000E0615 /* Build configuration list for PBXNativeTarget "MOBA2_Lab_iTunes2UITests" */;
+			buildPhases = (
+				EA888E1C2A0FAA6B000E0615 /* Sources */,
+				EA888E1D2A0FAA6B000E0615 /* Frameworks */,
+				EA888E1E2A0FAA6B000E0615 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EA888E222A0FAA6B000E0615 /* PBXTargetDependency */,
+			);
+			name = MOBA2_Lab_iTunes2UITests;
+			productName = MOBA2_Lab_iTunes2UITests;
+			productReference = EA888E202A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EA888DFE2A0FAA69000E0615 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					EA888E052A0FAA6A000E0615 = {
+						CreatedOnToolsVersion = 14.3;
+					};
+					EA888E152A0FAA6B000E0615 = {
+						CreatedOnToolsVersion = 14.3;
+						TestTargetID = EA888E052A0FAA6A000E0615;
+					};
+					EA888E1F2A0FAA6B000E0615 = {
+						CreatedOnToolsVersion = 14.3;
+						TestTargetID = EA888E052A0FAA6A000E0615;
+					};
+				};
+			};
+			buildConfigurationList = EA888E012A0FAA69000E0615 /* Build configuration list for PBXProject "MOBA2_Lab_iTunes2" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EA888DFD2A0FAA69000E0615;
+			productRefGroup = EA888E072A0FAA6A000E0615 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EA888E052A0FAA6A000E0615 /* MOBA2_Lab_iTunes2 */,
+				EA888E152A0FAA6B000E0615 /* MOBA2_Lab_iTunes2Tests */,
+				EA888E1F2A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EA888E042A0FAA6A000E0615 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA888E112A0FAA6B000E0615 /* Preview Assets.xcassets in Resources */,
+				EA888E0E2A0FAA6B000E0615 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA888E142A0FAA6B000E0615 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA888E1E2A0FAA6B000E0615 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EA888E022A0FAA6A000E0615 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA888E0C2A0FAA6A000E0615 /* ContentView.swift in Sources */,
+				EA888E0A2A0FAA6A000E0615 /* MOBA2_Lab_iTunes2App.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA888E122A0FAA6B000E0615 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA888E1B2A0FAA6B000E0615 /* MOBA2_Lab_iTunes2Tests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA888E1C2A0FAA6B000E0615 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA888E252A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITests.swift in Sources */,
+				EA888E272A0FAA6B000E0615 /* MOBA2_Lab_iTunes2UITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EA888E182A0FAA6B000E0615 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EA888E052A0FAA6A000E0615 /* MOBA2_Lab_iTunes2 */;
+			targetProxy = EA888E172A0FAA6B000E0615 /* PBXContainerItemProxy */;
+		};
+		EA888E222A0FAA6B000E0615 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EA888E052A0FAA6A000E0615 /* MOBA2_Lab_iTunes2 */;
+			targetProxy = EA888E212A0FAA6B000E0615 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		EA888E282A0FAA6B000E0615 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		EA888E292A0FAA6B000E0615 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EA888E2B2A0FAA6B000E0615 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MOBA2_Lab_iTunes2/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zhaw.MOBA2-Lab-iTunes2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EA888E2C2A0FAA6B000E0615 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MOBA2_Lab_iTunes2/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zhaw.MOBA2-Lab-iTunes2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		EA888E2E2A0FAA6B000E0615 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zhaw.MOBA2-Lab-iTunes2Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MOBA2_Lab_iTunes2.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MOBA2_Lab_iTunes2";
+			};
+			name = Debug;
+		};
+		EA888E2F2A0FAA6B000E0615 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zhaw.MOBA2-Lab-iTunes2Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MOBA2_Lab_iTunes2.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MOBA2_Lab_iTunes2";
+			};
+			name = Release;
+		};
+		EA888E312A0FAA6B000E0615 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zhaw.MOBA2-Lab-iTunes2UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MOBA2_Lab_iTunes2;
+			};
+			name = Debug;
+		};
+		EA888E322A0FAA6B000E0615 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zhaw.MOBA2-Lab-iTunes2UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MOBA2_Lab_iTunes2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EA888E012A0FAA69000E0615 /* Build configuration list for PBXProject "MOBA2_Lab_iTunes2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA888E282A0FAA6B000E0615 /* Debug */,
+				EA888E292A0FAA6B000E0615 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EA888E2A2A0FAA6B000E0615 /* Build configuration list for PBXNativeTarget "MOBA2_Lab_iTunes2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA888E2B2A0FAA6B000E0615 /* Debug */,
+				EA888E2C2A0FAA6B000E0615 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EA888E2D2A0FAA6B000E0615 /* Build configuration list for PBXNativeTarget "MOBA2_Lab_iTunes2Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA888E2E2A0FAA6B000E0615 /* Debug */,
+				EA888E2F2A0FAA6B000E0615 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EA888E302A0FAA6B000E0615 /* Build configuration list for PBXNativeTarget "MOBA2_Lab_iTunes2UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA888E312A0FAA6B000E0615 /* Debug */,
+				EA888E322A0FAA6B000E0615 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EA888DFE2A0FAA69000E0615 /* Project object */;
+}
